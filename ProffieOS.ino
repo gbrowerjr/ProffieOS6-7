@@ -41,6 +41,7 @@
 // #define CONFIG_FILE "config/teensy_audio_shield_micom.h"
 // #define CONFIG_FILE "config/proffieboard_v2_ob4.h"
 // #define CONFIG_FILE "config/testconfig.h"
+#define CONFIG_FILE "config/my_default_config.h"
 
 #ifdef CONFIG_FILE_TEST
 #undef CONFIG_FILE
