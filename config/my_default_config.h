@@ -5,8 +5,8 @@
 //   o A neopixel blade on LED 1-2-3 and neopixel data 1.
 
 #ifdef CONFIG_TOP
-//#include "proffieboard_v2_config.h"
-#include "proffieboard_config.h"
+#include "proffieboard_v2_config.h"
+//#include "proffieboard_config.h"
 #define NUM_BLADES 1
 #define NUM_BUTTONS 2
 #define VOLUME 1500 // rear facing SE speaker-1500, forward facing SE speaker-1300
