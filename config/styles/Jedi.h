@@ -1,5 +1,5 @@
 // GraflexBlades.h
-// Will load blade style files pertaining to the graflex
+// Will load blade style files pertaining to the Jedi
 // 
 
  {"EsbGraflex;common", "tracks/vader.wav", 
