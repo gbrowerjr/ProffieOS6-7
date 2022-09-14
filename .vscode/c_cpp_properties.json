@@ -3,7 +3,7 @@
     "configurations": [
         {
             "name": "Arduino",
-            "compilerPath": "C:\\Users\\gbrow\\AppData\\Local\\Arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\bin\\arm-none-eabi-g++",
+            "compilerPath": "C:\\Users\\gary\\AppData\\Local\\Arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\bin\\arm-none-eabi-g++",
             "compilerArgs": [
                 "-mcpu=cortex-m4",
                 "-mthumb",
@@ -18,27 +18,27 @@
             ],
             "intelliSenseMode": "gcc-x64",
             "includePath": [
-                "C:\\Users\\gbrow\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\2.2.0\\system\\CMSIS\\Include",
-                "C:\\Users\\gbrow\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\2.2.0\\system\\CMSIS\\Device\\ST\\STM32L4xx\\Include",
-                "C:\\Users\\gbrow\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\2.2.0\\system\\STM32L4xx\\Include",
-                "C:\\Users\\gbrow\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\2.2.0\\cores\\stm32l4",
-                "C:\\Users\\gbrow\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\2.2.0\\variants\\STM32L433CC-ProffieboardV2",
-                "C:\\Users\\gbrow\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\2.2.0\\libraries\\Wire\\src",
-                "c:\\users\\gbrow\\appdata\\local\\arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\arm-none-eabi\\include\\c++\\9.3.1",
-                "c:\\users\\gbrow\\appdata\\local\\arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\arm-none-eabi\\include\\c++\\9.3.1\\arm-none-eabi",
-                "c:\\users\\gbrow\\appdata\\local\\arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\arm-none-eabi\\include\\c++\\9.3.1\\backward",
-                "c:\\users\\gbrow\\appdata\\local\\arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\lib\\gcc\\arm-none-eabi\\9.3.1\\include",
-                "c:\\users\\gbrow\\appdata\\local\\arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\lib\\gcc\\arm-none-eabi\\9.3.1\\include-fixed",
-                "c:\\users\\gbrow\\appdata\\local\\arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\arm-none-eabi\\include"
+                "C:\\Users\\gary\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\3.6.0\\system\\CMSIS\\Include",
+                "C:\\Users\\gary\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\3.6.0\\system\\CMSIS\\Device\\ST\\STM32L4xx\\Include",
+                "C:\\Users\\gary\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\3.6.0\\system\\STM32L4xx\\Include",
+                "C:\\Users\\gary\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\3.6.0\\cores\\stm32l4",
+                "C:\\Users\\gary\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\3.6.0\\variants\\STM32L433CC-ProffieboardV2",
+                "C:\\Users\\gary\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\3.6.0\\libraries\\Wire\\src",
+                "c:\\users\\gary\\appdata\\local\\arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\arm-none-eabi\\include\\c++\\9.3.1",
+                "c:\\users\\gary\\appdata\\local\\arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\arm-none-eabi\\include\\c++\\9.3.1\\arm-none-eabi",
+                "c:\\users\\gary\\appdata\\local\\arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\arm-none-eabi\\include\\c++\\9.3.1\\backward",
+                "c:\\users\\gary\\appdata\\local\\arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\lib\\gcc\\arm-none-eabi\\9.3.1\\include",
+                "c:\\users\\gary\\appdata\\local\\arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\lib\\gcc\\arm-none-eabi\\9.3.1\\include-fixed",
+                "c:\\users\\gary\\appdata\\local\\arduino15\\packages\\proffieboard\\tools\\arm-none-eabi-gcc\\9-2020-q2-update\\arm-none-eabi\\include"
             ],
             "forcedInclude": [
-                "C:\\Users\\gbrow\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\2.2.0\\cores\\stm32l4\\Arduino.h"
+                "C:\\Users\\gary\\AppData\\Local\\Arduino15\\packages\\proffieboard\\hardware\\stm32l4\\3.6.0\\cores\\stm32l4\\Arduino.h"
             ],
             "cStandard": "c11",
             "cppStandard": "c++11",
             "defines": [
                 "_SYSTEM_CORE_CLOCK_=80000000L",
-                "ARDUINO=10813",
+                "ARDUINO=10819",
                 "ARDUINO_STM32L4_BUTTERLY",
                 "ARDUINO_ARCH_STM32L4",
                 "STM32L433xx",

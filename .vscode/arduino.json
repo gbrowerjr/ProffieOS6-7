@@ -1,7 +1,8 @@
 {
     "configuration": "usb=cdc_msc_webusb,dosfs=sdspi,speed=80,opt=os",
     "board": "proffieboard:stm32l4:ProffieboardV2-L433CC",
-    "port": "COM6",
+    "port": "COM5",
     "sketch": "ProffieOS.ino",
-    "programmer": "proffieboard:dfu"
+    "programmer": "proffieboard:dfu",
+    "output": "../build"
 }
