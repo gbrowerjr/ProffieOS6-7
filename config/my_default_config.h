@@ -52,10 +52,10 @@ Preset presets[] = {
 };
 
 BladeConfig blades[] = {
-#include "single_blade.h" // standard single blade sabers
-// #include "dual_blade.h" // blade + 1 controllable accent 
-// #include "triple_blade.h // blade + 2 controllable accent (Hero, Anniflex)
-// #include "crossguard.h" // blade + 2 sub blades (Kylo)
+#include "my_single_blade.h" // standard single blade sabers
+// #include "my_dual_blade.h" // blade + 1 controllable accent 
+// #include "my_triple_blade.h // blade + 2 controllable accent (Hero, Anniflex)
+// #include "my_crossguard.h" // blade + 2 sub blades (Kylo)
 };
 
 #endif
