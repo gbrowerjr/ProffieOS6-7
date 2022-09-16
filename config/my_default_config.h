@@ -32,6 +32,7 @@ const unsigned int maxLedsPerStrip = 144;
 #define SHARED_POWER_PINS
 #define ENABLE_POWER_FOR_ID PowerPINS<bladePowerPin1, bladePowerPin2, bladePowerPin3> // LED power pins on 1, 2, & 3
 #define DISABLE_DIAGNOSTIC_COMMANDS // Save MCU flash space if overflowing during upload
+#define DISABLE_BASIC_PARSER_STYLES
 #define COLOR_CHANGE_DIRECT // each click changes colors on twist
 
 #include "../props/fett263_defines.h" // Defines for fett263 prop file
