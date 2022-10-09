@@ -1,5 +1,5 @@
-// HeroBlades.h
-// Will load blade style files pertaining to the hero
+// Hero.h
+// Will load blade styles pertaining to the hero
 // 
 
 {"Return;common", "tracks/Final_Duel.wav",
